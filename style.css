@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+   padding: 0;
+ box-sizing: border-box;
+
+}
+.conteiner{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 10px auto;
+    background-color: aliceblue;
+}
+.qator1{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 0 210px;
+}
+.link{
+   
+    display: flex;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.secshin-one-right{
+   
+    width: 421.21px;
+height: 112px;
+padding: 112px auto;
+
+justify-content: space-between;
+
+}
+.main{
+    padding: 112px auto;
+
+}
+.btn{
+    width: 197.75px;
+height: 56px;
+
+border-radius: 55px 55px 55px 55px;
+background: #458FF6;
+
+
+
+
+}
+.secshin-one-right h1{
+    margin-top: 30px;
+}
+.secshin-one-right p{
+    margin-top: 30px;
+  
+    
+}
+.secshin-one{
+    display: flex;
+    gap: 131px;
+}
+.seciteon-two{
+    text-align: center;
+}
+.seciteon-two p{
+    margin-top: 61px;
+}
+.Consultation{
+    width: 380px;
+height: 380px;
+top: 1038px;
+
+
+
+}
+
+.ota{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Searchdoctor{
+    width: 300px;
+    height: 300px;
+   
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    background: #FFFFFF;
+    
+}
+.Onlinepharmacy{
+    width: 300px;
+    height: 300px;
+   
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    background: #FFFFFF;
+    
+}
+.Consultation{
+    width: 300px;
+    height: 300px;
+   
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    background: #FFFFFF;
+    
+}
+.Detailsinfo{
+    width: 300px;
+    height: 300px;
+   
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    background: #FFFFFF;
+    
+}
+.Emergencycare{
+    width: 300px;
+    height: 300px;
+   
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    background: #FFFFFF;
+    
+}
+.Tracking{
+    width: 300px;
+    height: 300px;
+   
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    background: #FFFFFF;
+    
+}
+.ona{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.btr{
+    width: 200px;
+height: 56px;
+
+border-radius: 55px 55px 55px 55px;
+opacity: 0px;
+border: 1.4px 
+solid #458FF6;
+
+margin-top: 40px;
+}
+.dis{
+    width: 380px;
+height: 516px;
+gap: 0px;
+opacity: 0px;
+
+}
+a{
+    color: blue;
+}
+
+
+.bis{
+    width: 380px;
+height: 516px;
+gap: 0px;
+opacity: 0px;
+}
+.sis{
+    width: 380px;
+height: 516px;
+gap: 0px;
+opacity: 0px;
+}
+.qq{
+    display: flex;
+    justify-content: space-evenly;
+}
